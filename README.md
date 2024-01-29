@@ -1,7 +1,7 @@
 
 <div align="center">
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&size=24&color=000000&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Soy+Zopenko+joder;+adios!👋🏻;" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&duration=3000&pause=1000&color=2563EB&random=false&width=435&lines=Welcome+to+my+profile!;Feel+free+to+contact+me!" alt="welcome message" />
 </h1>
 </div>
 
