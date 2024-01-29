@@ -1,5 +1,9 @@
-### Hi there 👋
 
+<div align="center">
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Press+Start+2P&size=24&color=000000&center=true&vCenter=true&width=500&height=70&duration=5000&lines=Soy+Zopenko+joder;+adios!👋🏻;" />
+</h1>
+</div>
 <!--
 **DaniGarridoNunez/DaniGarridoNunez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
