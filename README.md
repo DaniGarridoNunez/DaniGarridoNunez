@@ -17,8 +17,23 @@
 
 
 
-<img src="assets/perfil.png" alt="FOTO DE PERFIL" style="width:30%;" />
+<img align="right" src="assets/photo.png" alt="FOTO DE PERFIL" style="width:30%;" />
 
+- 🔭 I’m currently working on **a full-stack web application integrating React.js and Node.js**
+
+- 🌱 I’m currently learning **React and Express**
+
+- 👯 I’m looking to collaborate on **web development projects**
+
+- 🤝 I’m looking for help with **developing / optimizing websites**
+
+- 👨‍💻 All of my projects are available at [https://www.danigarridonunez.com](https://www.danigarridonunez.com)
+
+- 💬 Ask me about **best practices for responsive web design, React and latest features on ECMAScript**
+
+- 📫 How to reach me **danigarridonunez@gmail.com**
+
+- ⚡ Fun fact **I once built a web application that generates random dad jokes using an API**
 
 <h3 align="center">𝐂𝐨𝐧𝐞𝐜𝐭𝐚 𝐜𝐨𝐧𝐦𝐢𝐠𝐨:</h3>
 <p align="center">
@@ -35,7 +50,7 @@
 
 <br>
 
-<h3 align="center">𝐋𝐚𝐧𝐠𝐮𝐚𝐣𝐞𝐬:</h3>
+<h3 align="center">𝐋e𝐧𝐠𝐮𝐚𝐣𝐞𝐬:</h3>
 <p align="center">
   <a href="https://skillicons.dev" style="margin-right: 20px;">
     <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,mongodb,mysql,php,react,nodejs&perline=12" />
@@ -55,10 +70,8 @@
 
 <div align="left">
 <a href="https://github.com/DaniGarridoNunez">
-    <div width="20rem">
         <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DaniGarridoNunez&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
           <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DaniGarridoNunez&layout=compact&langs_count=8&theme=algolia"/>
-    </div>
   
 </a>
 </div>
