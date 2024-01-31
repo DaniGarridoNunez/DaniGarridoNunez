@@ -17,7 +17,7 @@
 
 
 
-<img align="right" src="assets/profile.gif" alt="photo" style="width:30%;" />
+<img align="right" src="profile.gif" alt="photo" style="width:30%;" />
 
 - 🔭 I’m currently working on **a full-stack web application integrating React.js and Node.js**
 
