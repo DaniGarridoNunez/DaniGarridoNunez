@@ -23,8 +23,6 @@
 
 - 🌱 I’m currently learning **React and Express**
 
-- 👯 I’m looking to collaborate on **web development projects**
-
 - 🤝 I’m looking for help with **developing / optimizing websites**
 
 - 👨‍💻 All of my projects are available at [https://www.danigarridonunez.com](https://www.danigarridonunez.com)
