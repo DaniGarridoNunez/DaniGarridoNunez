@@ -29,11 +29,8 @@
 
 - 👨‍💻 All of my projects are available at [https://www.danigarridonunez.com](https://www.danigarridonunez.com)
 
-- 💬 Ask me about **best practices for responsive web design, React and latest features on ECMAScript**
-
 - 📫 How to reach me **danigarridonunez@gmail.com**
 
-- ⚡ Fun fact **I once built a web application that generates random dad jokes using an API**
 
 <h3 align="center">𝐂𝐨𝐧𝐞𝐜𝐭𝐚 𝐜𝐨𝐧𝐦𝐢𝐠𝐨:</h3>
 <p align="center">
