@@ -20,8 +20,7 @@
 - 📫 How to reach me **danigarridonunez@gmail.com**
 
 
-
-<h3 align="left">**Connect with me:**</h3>
+### Connect with me
 <p align="left">
   <a href="https://www.instagram.com/daaniigarrido/">
     <img src="https://skillicons.dev/icons?i=instagram" />
@@ -33,14 +32,14 @@
 
 <br>
 
-<h3 align="left">**Languages:**</h3>
+### Languages
 <p align="left">
     <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,mongodb,mysql,php,react,nodejs&perline=12" />
 </p>
 
 <br>
 
-<h3 align="left">**Tools:**</h3>
+### Tools
 <p align="left">
     <img src="https://skillicons.dev/icons?i=vscode,figma,git,github,gulp,wordpress&perline=8" />
 </p>
