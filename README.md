@@ -3,7 +3,7 @@
 
 <div align="center">
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=3000&pause=1000&color=2563EB&vCenter=true&random=false&width=435&lines=Welcome+to+my+profile!;Feel+free+to+contact+me!" alt="Typing SVG" />
+    [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Mochiy+Pop+P+One&size=30&duration=3000&pause=1000&color=2563EB&vCenter=true&random=false&width=435&lines=Welcome+to+my+profile!;Feel+free+to+contact+me!)](https://git.io/typing-svg)
 </h1>
 </div>
 <h2>
