@@ -1,5 +1,5 @@
 
-![Texto alternativo](./assets/Banner.jpg)
+![Texto alternativo](./banner.jpg)
 
 <div align="center">
 <h1 align="center">
