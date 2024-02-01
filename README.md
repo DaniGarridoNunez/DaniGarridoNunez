@@ -22,9 +22,6 @@
 
 <h3 align="left">𝐂𝐨𝐧𝐞𝐜𝐭𝐚 𝐜𝐨𝐧𝐦𝐢𝐠𝐨:</h3>
 <p align="left">
-  <a href="enlace_discord">
-    <img src="https://skillicons.dev/icons?i=discord" />
-  </a>
   <a href="https://www.instagram.com/daaniigarrido/">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
