@@ -22,10 +22,10 @@
 
 <h3 align="left">𝐂𝐨𝐧𝐞𝐜𝐭𝐚 𝐜𝐨𝐧𝐦𝐢𝐠𝐨:</h3>
 <p align="left">
-  <a href="enlace_discord" style="margin-right: 20px;">
+  <a href="enlace_discord" style="margin-right: 40px;">
     <img src="https://skillicons.dev/icons?i=discord" />
   </a>
-  <a href="https://www.instagram.com/daaniigarrido/" style="margin-right: 20px;">
+  <a href="https://www.instagram.com/daaniigarrido/" style="margin-right: 40px;">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
   <a href="https://www.linkedin.com/in/daniel-garrido-nu%C3%B1ez-87b041223/">
@@ -37,18 +37,14 @@
 
 <h3 align="left">𝐋e𝐧𝐠𝐮𝐚𝐣𝐞𝐬:</h3>
 <p align="left">
-  <a href="https://skillicons.dev" style="margin-right: 20px;">
     <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,mongodb,mysql,php,react,nodejs&perline=12" />
-  </a>
 </p>
 
 <br>
 
 <h3 align="left">𝐇𝐞𝐫𝐫𝐚𝐦𝐢𝐞𝐧𝐭𝐚𝐬:</h3>
 <p align="left">
-  <a href="https://skillicons.dev" style="margin-right: 20px;">
     <img src="https://skillicons.dev/icons?i=vscode,figma,git,github,gulp,wordpress&perline=8" />
-  </a>
 </p>
 
 ### ⚙️ &nbsp;GitHub Analytics
