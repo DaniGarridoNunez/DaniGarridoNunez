@@ -21,7 +21,7 @@
 
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">**Connect with me:**</h3>
 <p align="left">
   <a href="https://www.instagram.com/daaniigarrido/">
     <img src="https://skillicons.dev/icons?i=instagram" />
@@ -33,14 +33,14 @@
 
 <br>
 
-<h3 align="left">Languages:</h3>
+<h3 align="left">**Languages:**</h3>
 <p align="left">
     <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,mongodb,mysql,php,react,nodejs&perline=12" />
 </p>
 
 <br>
 
-<h3 align="left">Tools:</h3>
+<h3 align="left">**Tools:**</h3>
 <p align="left">
     <img src="https://skillicons.dev/icons?i=vscode,figma,git,github,gulp,wordpress&perline=8" />
 </p>
