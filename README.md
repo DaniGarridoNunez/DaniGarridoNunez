@@ -1,21 +1,15 @@
 
+![Texto alternativo](./assets/Banner.jpg)
+
 <div align="center">
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&duration=3000&pause=1000&color=2563EB&vCenter=true&random=false&width=435&lines=Welcome+to+my+profile!;Feel+free+to+contact+me!" alt="Typing SVG" />
 </h1>
 </div>
-
-![Texto alternativo](./assets/Banner.jpg)
-
 <h2>
     Daniel Garrido
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
-
-
-![Typing SVG](https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=13&pause=1000&color=ED0000&random=false&width=435&lines=Bienvenido+a+mi+repositorio;Si%C3%A9ntete+libre+de+explorarlo;Gracias+por+tu+apoyo++%F0%9F%A6%89+)
-
-
 
 <img align="right" src="profile.gif" alt="photo" style="width:400px;" />
 
@@ -30,8 +24,8 @@
 - 📫 How to reach me **danigarridonunez@gmail.com**
 
 
-<h3 align="center">𝐂𝐨𝐧𝐞𝐜𝐭𝐚 𝐜𝐨𝐧𝐦𝐢𝐠𝐨:</h3>
-<p align="center">
+<h3 align="left">𝐂𝐨𝐧𝐞𝐜𝐭𝐚 𝐜𝐨𝐧𝐦𝐢𝐠𝐨:</h3>
+<p align="left">
   <a href="enlace_discord" style="margin-right: 20px;">
     <img src="https://skillicons.dev/icons?i=discord" />
   </a>
@@ -45,8 +39,8 @@
 
 <br>
 
-<h3 align="center">𝐋e𝐧𝐠𝐮𝐚𝐣𝐞𝐬:</h3>
-<p align="center">
+<h3 align="left">𝐋e𝐧𝐠𝐮𝐚𝐣𝐞𝐬:</h3>
+<p align="left">
   <a href="https://skillicons.dev" style="margin-right: 20px;">
     <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,mongodb,mysql,php,react,nodejs&perline=12" />
   </a>
@@ -54,8 +48,8 @@
 
 <br>
 
-<h3 align="center">𝐇𝐞𝐫𝐫𝐚𝐦𝐢𝐞𝐧𝐭𝐚𝐬:</h3>
-<p align="center">
+<h3 align="left">𝐇𝐞𝐫𝐫𝐚𝐦𝐢𝐞𝐧𝐭𝐚𝐬:</h3>
+<p align="left">
   <a href="https://skillicons.dev" style="margin-right: 20px;">
     <img src="https://skillicons.dev/icons?i=vscode,figma,git,github,gulp,wordpress&perline=8" />
   </a>
