@@ -6,10 +6,6 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Mochiy+Pop+P+One&size=30&duration=3000&pause=1000&color=2563EB&vCenter=true&random=false&width=435&lines=Welcome+to+my+profile!;Feel+free+to+contact+me!" alt="Typing SVG" />
 </h1>
 </div>
-<h2>
-    Daniel Garrido
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h2>
 
 <img align="right" src="profile.gif" alt="photo" style="width:400px;" />
 
