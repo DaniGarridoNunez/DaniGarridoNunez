@@ -34,7 +34,7 @@
 
 ### Languages
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,mongodb,mysql,php,react,nodejs&perline=12" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,mongodb,mysql,php,react,nodejs&perline=6" />
 </p>
 
 <br>
