@@ -11,9 +11,9 @@
 
 - 🔭 I’m currently working on **a full-stack web application integrating React.js and Node.js**
 
-- 🌱 I’m currently learning **React and Express**
+- 🌱 I’m currently mastering **React,Next & Typescript**
 
-- 🤝 I’m looking for help with **developing / optimizing websites**
+- 🤝 I’m looking to help with **developing / optimizing websites**
 
 - 👨‍💻 All of my projects are available at [https://www.danigarridonunez.com](https://www.danigarridonunez.com)
 
