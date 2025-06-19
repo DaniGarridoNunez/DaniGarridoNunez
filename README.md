@@ -9,9 +9,9 @@
 
 <img align="right" src="./assets/profile.gif" alt="photo" style="width:400px;" />
 
-- 🔭 I’m currently working on **a full-stack web application integrating React.js and Node.js**
+- 🔭 I’m currently working on **UpScaleer, a side project to create, automate and schedule posts to all your favorite socials**
 
-- 🌱 I’m currently mastering **React,Next & Typescript**
+- 🌱 I’m currently mastering **React,Next & Typescript** (and will continue to do so for years, you can always improve)
 
 - 🤝 I’m looking to help with **developing / optimizing websites**
 
