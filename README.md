@@ -45,6 +45,9 @@
 </p>
 
 ### ⚙️ &nbsp;GitHub Analytics
+<div align="left">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=DaniGarridoNunez&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+</div>
 
 ## 🏆 GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=DaniGarridoNunez&no-frame=false&no-bg=false&margin-w=4)
