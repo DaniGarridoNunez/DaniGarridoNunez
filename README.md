@@ -9,15 +9,11 @@
 
 <img align="right" src="./assets/profile.gif" alt="photo" style="width:400px;" />
 
-- 🔭 I’m currently building **BetterEdit**, an AI-powered SaaS for creators and businesses to generate, edit, and automate high-quality visual content.
+- 🔭 I’m currently building **BetterEdit**, an AI-powered SaaS for creators, e-commerce brands, and businesses to generate and edit studio-quality visual content.
 
-- 🧠 I’m focused on **software architecture, clean code, design patterns, system design, and scalable full-stack applications**.
+- 🧠 I work across **full-stack architecture, clean architecture, domain-driven design, design patterns, and scalable system design**.
 
-- 🤖 I’m deeply interested in **AI engineering, agentic workflows, RAG systems, MCP servers, multimodal LLM apps, and automation platforms**.
-
-- 🏗️ I enjoy designing **production-ready systems** with TypeScript, Next.js, Node.js, cloud infrastructure, queues, background jobs, and robust authentication.
-
-- 👨‍💻 My projects are available at [https://www.danigarridonunez.com](https://www.danigarridonunez.com)
+- 🤖 I’m especially interested in **AI engineering, agentic workflows, RAG systems, MCP servers, multimodal applications, and automation platforms**.
 
 - 📫 How to reach me **danigarridonunez@gmail.com**
 
