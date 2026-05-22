@@ -9,13 +9,15 @@
 
 <img align="right" src="./assets/profile.gif" alt="photo" style="width:400px;" />
 
-- 🔭 I’m currently working on **UpScaleer, a side project to create, automate and schedule posts to all your favorite socials**
+- 🔭 I’m currently building **BetterEdit**, an AI-powered SaaS for creators and businesses to generate, edit, and automate high-quality visual content.
 
-- 🌱 I’m currently mastering **React,Next & Typescript** (and will continue to do so for years, you can always improve)
+- 🧠 I’m focused on **software architecture, clean code, design patterns, system design, and scalable full-stack applications**.
 
-- 🤝 I’m looking to help with **developing / optimizing websites**
+- 🤖 I’m deeply interested in **AI engineering, agentic workflows, RAG systems, MCP servers, multimodal LLM apps, and automation platforms**.
 
-- 👨‍💻 All of my projects are available at [https://www.danigarridonunez.com](https://www.danigarridonunez.com)
+- 🏗️ I enjoy designing **production-ready systems** with TypeScript, Next.js, Node.js, cloud infrastructure, queues, background jobs, and robust authentication.
+
+- 👨‍💻 My projects are available at [https://www.danigarridonunez.com](https://www.danigarridonunez.com)
 
 - 📫 How to reach me **danigarridonunez@gmail.com**
 
